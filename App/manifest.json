@@ -1,0 +1,22 @@
+{
+    "manifest_version" : 3,
+    "name" : "Curio",
+    "description" : "learning to develop extensions",
+    "version" : "1.0",
+    "action" : {
+        "default_popup" : "say_hi.html",
+        "default_icon" : "curio.png"
+    },
+    "content_scripts" : [
+        {
+            "js" : ["script.js"],
+            "matches" : [
+                "<all_urls>"
+            ]
+        }
+    ],
+    "background": {
+        "service_worker": "service-worker.js"
+      }
+
+}

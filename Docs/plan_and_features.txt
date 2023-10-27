@@ -1,7 +1,7 @@
 Title : Curio Chrome Extension
 
 Summary : 
-The goal with this project is to create an AI based personal assistant as a browser Extension.
+The goal with this project is to create an AI based personal assistant as a browser Extension that helps increase productivity.
 It should be an overlay available on each opened tab and should be ready to assist.
 It should work with non-precise voice commands (like siri, alexa ...)
 It should be fairly easy to use and provide all the required functionalities on the same tab the user active on.
