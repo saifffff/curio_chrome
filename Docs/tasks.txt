@@ -1,0 +1,3 @@
+Day 1 : 
+    1- read official documentation of chrome Extensions.
+    2- watch a few youtube videos for getting started.

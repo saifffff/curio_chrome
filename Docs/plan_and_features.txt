@@ -1,0 +1,15 @@
+Title : Curio Chrome Extension
+
+Summary : 
+The goal with this project is to create an AI based personal assistant as a browser Extension.
+It should be an overlay available on each opened tab and should be ready to assist.
+It should work with non-precise voice commands (like siri, alexa ...)
+It should be fairly easy to use and provide all the required functionalities on the same tab the user active on.
+
+
+FEATURES :
+
+1 - available on all active chrome tabs
+2 - can be invoked using a button(on the web-page), via keyboard shortcut, and voice command(like "hey siri")
+3 - should be able to handle and respond precisely to non-precise commands from a user
+4 - should not lead user outside of the current active tab without explicit request
