@@ -3,20 +3,24 @@
     "name" : "Curio",
     "description" : "learning to develop extensions",
     "version" : "1.0",
-    "action" : {
-        "default_popup" : "say_hi.html",
-        "default_icon" : "curio.png"
-    },
     "content_scripts" : [
         {
-            "js" : ["script.js"],
+            "js" : ["/scripts/content_scripts.js"],
+            "css" : ["/scripts/content.css"],
             "matches" : [
-                "<all_urls>"
+                "*://*/*"
             ]
         }
     ],
-    "background": {
-        "service_worker": "service-worker.js"
+    "icons": {
+        "16": "curio.png",
+        "24": "curio.png",
+        "32": "curio.png",
+        "48": "curio.png",
+        "64": "curio.png",
+        "128": "curio.png",
+        "256": "curio.png",
+        "512": "curio.png"
       }
 
 }

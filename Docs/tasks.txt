@@ -1,3 +1,19 @@
+Tasks - 
+* : started
+** : completed
+
+
 Day 1 : 
-    1- read official documentation of chrome Extensions.
-    2- watch a few youtube videos for getting started.
+    1- read official documentation of chrome Extensions.    **
+    2- watch a few youtube videos for getting started.  **
+
+Day 2 : 
+    1- start coding the extension, do basic setup.  **
+    2- choose a suitable extension type and create a extension. **
+    3- make it inject the extension element on all web-pages.   **
+    4- make it appear on bottom right of every element in a page.   **
+    5- add animation to the element so that it is clearly visible.  **
+    6- the element should invoke a function on being clicked.   **
+    7- implement this animation https://tympanus.net/Development/PseudoElementsAnimationsTransitions/index2.html    *
+
+
