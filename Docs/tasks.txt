@@ -14,6 +14,12 @@ Day 2 :
     4- make it appear on bottom right of every element in a page.   **
     5- add animation to the element so that it is clearly visible.  **
     6- the element should invoke a function on being clicked.   **
-    7- implement this animation https://tympanus.net/Development/PseudoElementsAnimationsTransitions/index2.html    *
+    7- implement this animation https://tympanus.net/Development/PseudoElementsAnimationsTransitions/index2.html    ** 
+
+Day 3 : 
+    1- learn about speech to text api and find the best suitable. **
+    2- implement listening and display speech on the webpage **
+    3- create a keyboard shortcut for the extension **
+
 
 

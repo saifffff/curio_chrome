@@ -5,7 +5,7 @@
     "version" : "1.0",
     "content_scripts" : [
         {
-            "js" : ["/scripts/content_scripts.js"],
+            "js" : ["/scripts/content_scripts.js","/scripts/Popup.js"],
             "css" : ["/scripts/content.css"],
             "matches" : [
                 "*://*/*"
